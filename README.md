@@ -52,3 +52,4 @@ Currency
 City
 Location
 Rating Text
+
